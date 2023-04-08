@@ -1,12 +1,27 @@
 public class DataOperation {
-    public void Select(){
+
+    public void createDatabase(){
 
     }
-    public void createTable(){
+    public void dropDatabase(){
 
     }
     public void dropTable(){
 
     }
-    public void
+    public void createTable(){
+
+    }
+    public void selectRecords(){
+
+    }
+    public void insertRecords(){
+
+    }
+    public void updateRecords(){
+
+    }
+    public void deleteRecords(){
+
+    }
 }
